@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on honing my backend skills<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning django rest <br>💬 Ask me about backend development <br>
+🔭 I’m currently sharpening my backend skills<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning django rest <br>💬 Ask me about backend development <br>
 
 
 ## 🌐 Socials:
