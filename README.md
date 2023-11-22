@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently sharpening my backend skills<br>👯 I’m looking to collaborate on full stack development<br>🤝 I’m looking for help with frontend development<br>🌱 I’m currently learning django rest <br>💬 Ask me about backend development <br>
+🔭 Passionate backend developer with hands-on experience in Python and Django, eager to contribute to innovative projects <br>👯 I’m looking to collaborate on full stack development- would love to collabrate with a frontend dev <br>🌱 I’m currently learning deployment cycle and cloud tech <br>💬 Ask me about backend development <br>
 
 
 ## 🌐 Socials:
